@@ -44,7 +44,7 @@ const Restaurant = () => {
                     <Fade direction='center' delay={1e3} cascade damping={1e-1}>
                     <Box className='rest-card-box' sx={{direction:'rtl'}}>
                         <Typography style={{ display:'flex' ,justifyContent:'center',width:'100%' }}>EVENT BOOKING</Typography>
-                        <Typography style={{ fontSize: '30px', width: '100%',alignItems:'center',justifyContent:'center',display:'flex',flexDirection:'column' }}>Do you have any plan <br/><span style={{fontSize:'27px'}}> for any Paarty or Events</span></Typography>
+                        <Typography className='rest-typs' style={{ fontSize: '30px', width: '100%',alignItems:'center',justifyContent:'center',display:'flex',flexDirection:'column' }}>Do you have any plan <br/><span style={{fontSize:'27px'}}> for any Paarty or Events</span></Typography>
                     </Box>
                     {/* <Box sx={{ display: 'flex', justifyContent: 'space-around' }} >
                         

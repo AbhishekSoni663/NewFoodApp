@@ -14,6 +14,7 @@
     display: flex;
     justify-content: center;
     margin-top: 15px;
+    
 }
 .cont-special{
     display: flex !important;
@@ -25,6 +26,7 @@
     padding: 20px;
     min-width:60%;
     justify-content: space-around;
+    
 }
 .card-data {
     font-family: 'Tsukimi Rounded', sans-serif !important;
@@ -74,7 +76,7 @@ padding-bottom: 5px;
     flex-direction: column;
     color: aliceblue !important;
     border: 1px solid white !important;
-    
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important;
 }
 .special-card-img{
    width: 100% !important; 

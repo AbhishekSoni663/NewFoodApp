@@ -10,7 +10,7 @@
     /* background-color: rgb(20, 21, 23); */
     min-height: 90vh;
     display: flex;
-    box-shadow: rgba(10, 0, 0, 0.908) 0px 3px 8px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 .foot-box{
     /* background-color: blue; */
@@ -45,6 +45,7 @@
 .foot-box-2 a{
     font-family: 'Capriola', sans-serif !important;
     font-size: 15px !important;
+    text-decoration: none;
     color: aqua !important;
     
 }

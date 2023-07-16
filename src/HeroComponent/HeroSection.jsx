@@ -10,7 +10,7 @@ const HeroSection = () => {
         <>
             <Grid className='hero-bg' container alignItems={'center'} justifyContent={'center'} gap={3}>
                 <Grid item className='hero-head' xs={12} sm={9} md={5} padding={'10px'}>
-                    <Typography className='hero-typ' color={'white'} variant='h3'> <Fade delay={1e3} cascade damping={1e-1}>We Combined</Fade></Typography>
+                    <Typography className='hero-typ' color={'white'} variant='h3'> We Combined</Typography>
                     <Typography className='hero-typ1' color={'white'} variant='h4'><strong><span style={{color:'red'}}>Healthy </span></strong> and <span style={{color:'red'}}>The</span></Typography>
                     <Typography className='hero-typ2' color={'white'} variant='h4'><Typewriter options={{
                         autoStart: true,

@@ -173,3 +173,12 @@
     background-color:rgb(9, 29, 42)!important;
     color: black !important
   }
+
+  @media(max-width:500px){
+    .wrapper{
+      display: none !important;
+    }
+    .switch{
+      display: none;
+    }
+  }

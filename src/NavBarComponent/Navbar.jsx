@@ -18,7 +18,7 @@ const Navbar = () => {
           alignItems: "center",
         }}
       >
-        <img src={NavLogo} height={"90px"} width={"130px"} />
+        <img className="nav-img1" src={NavLogo} height={"90px"} width={"130px"} />
         <Box
           width={"50%"}
           className="nav-head"
@@ -48,7 +48,7 @@ const Navbar = () => {
             <h4>{cart.length}</h4>
           </Button>
         </Box>
-        <ToogleBar />
+       <ToogleBar/>
       </Toolbar>
     </AppBar>
   );

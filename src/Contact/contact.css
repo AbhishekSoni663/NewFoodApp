@@ -42,7 +42,7 @@
     right: -15px;
     top: 50%;
     transform: translateY(-50%);
-    background: #afafb6;
+    /* background: #afafb6; */
   }
   .content .left-side .details{
     margin: 14px;
@@ -50,7 +50,7 @@
   }
   .content .left-side .details i{
     font-size: 30px;
-    color: #d9d2ef;
+    /* color: #d9d2ef; */
     margin-bottom: 10px;
   }
   .content .left-side .details .topic{
@@ -60,7 +60,7 @@
   .content .left-side .details .text-one,
   .content .left-side .details .text-two{
     font-size: 14px;
-    color: #afafb6;
+    /* color: #afafb6; */
   }
   .container .content .right-side{
     width: 75%;
@@ -69,7 +69,7 @@
   .content .right-side .topic-text{
     font-size: 23px;
     font-weight: 600;
-    color: #afafb6;
+    /* color: #afafb6; */
   }
   .right-side .input-box{
     height: 50px;
@@ -83,7 +83,7 @@
     border: none;
     outline: none;
     font-size: 16px;
-    background: #F0F1F8;
+    /* background: #F0F1F8; */
     border-radius: 6px;
     padding: 0 15px;
     resize: none;
@@ -99,13 +99,13 @@
     margin-top: 12px;
   }
   .right-side .button input[type="button"]{
-    color: #afafb6;
+    /* color: #afafb6; */
     font-size: 18px;
     outline: none;
     border: none;
     padding: 8px 16px;
     border-radius: 6px;
-    background: #0c0226;
+    /* background: #0c0226; */
     cursor: pointer;
     transition: all 0.3s ease;
   }

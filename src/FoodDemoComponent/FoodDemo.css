@@ -485,4 +485,13 @@
   .demo-card1 {
     min-width: 100% !important;
   }
+  .demo-card-h1{
+    width: 100%;
+    direction: rtl;
+  }
+}
+@media(max-width:450px){
+   .demo-link{
+   width: 100%;
+ }
 }

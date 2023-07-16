@@ -16,8 +16,7 @@ h1 {
   padding: 40px 0 20px;
   font: 40px/60px Gabriela, Georgia, serif;
   /* text-align: center !important; */
-  text-shadow: 3px 3px rgba(0,0,0,0.1);
-  color: #fff;  
+  text-shadow: 3px 3px rgba(0,0,0,0.1);  
 }
 p {
   margin-bottom: 40px;
@@ -25,7 +24,7 @@ p {
 }
 a {
   text-decoration: underline;
-  color: #1889e6;
+  /* color: #1889e6 ; */
 }
 a:hover {
   text-decoration: none;

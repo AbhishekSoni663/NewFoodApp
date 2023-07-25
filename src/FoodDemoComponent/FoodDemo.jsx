@@ -25,10 +25,10 @@ const FoodDemo = () => {
             <div className="img" data-aos="flip-right"></div>
             <div className="img2" data-aos="flip-left"></div>
           </div>
-          <span className="demo-img2">
+          <div className="demo-img2">
             <span className="img3" data-aos="flip-right"></span>
             <span className="img4" v data-aos="flip-left"></span>
-          </span>
+          </div>
         </div>
         <div className="demo-head">
           <div className="demo-head-detail">

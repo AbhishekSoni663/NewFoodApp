@@ -101,6 +101,7 @@ padding-bottom: 5px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     background-size: cover;
     transition: all ease-in-out 0.3s;
+    /* filter: drop-shadow(1px 0 2px yellow); */
 }
 .special-card-img img:hover{
     transform: scale(0.9);
